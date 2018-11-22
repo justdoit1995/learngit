@@ -8,3 +8,4 @@ Creating a new branch is quick & simple.
 Craeting a new branch is quick and simple.
 >>>>>>> featurel
 test
+bug fixed.
